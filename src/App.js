@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 import RestaurantMenu from "./components/RestaurantMenu";
 import RestaurantOnlineMenu from "./components/RestaurantOnlineMenu";
 import Error from "./components/Error";
-import UserContext from "./utils/userContext";
+import UserContext from "./utils/UserContext";
 import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
 import Cart from "./components/Cart";
